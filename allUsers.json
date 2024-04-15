@@ -1,0 +1,58 @@
+[
+  {
+    "username": "sagarjasani",
+    "age": 30,
+    "email": "sagar@test.com",
+    "password": 123456,
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "ashish",
+    "age": 25,
+    "email": "ashish@test.com",
+    "password": 123123,
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "Green",
+    "age": 26,
+    "email": "Green@test.com",
+    "password": "$2b$10$zAxLb//lS1FMfVTDClOSwelmbZcqXfz7DpSEng9ch59Mgo5DU8NJO",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "John",
+    "age": 36,
+    "email": "John@test.com",
+    "password": "$2b$10$tPQvINtB9ZkGpm2o3ij5Aev1roMUqcthpN67zHLYLXjk20f92KTBS",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "John1",
+    "age": 36,
+    "email": "John1@test.com",
+    "password": "$2b$10$4EUuvTxqDKmrE83aff9VQeerKdZ.mwkhCwPqbHAuWkT0wFhhd27Gm",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "Meka",
+    "age": 20,
+    "email": "Meka@test.com",
+    "password": "$2b$10$SxEHseR8bsJWQNAgZdjkFe6.63yhZWjWPkFvivku5QbEe.85Ug.x.",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "Meka2",
+    "age": 20,
+    "email": "Meka2@test.com",
+    "password": "$2b$10$tHHU2ulPfkFIt50Q7um7ce4zmYNC48g1yaOISscSpMEGmvE5cDYsi",
+    "avatar": "https://i.pravatar.cc/300"
+  },
+  {
+    "username": "Chintan",
+    "age": 26,
+    "email": "Chintan@test.com",
+    "password": "$2b$10$VtLAo7xkkW/PEUxLqNrD8ubZJ78gHXSOqJPNknjoTS8IfnE.1wOlW",
+    "avatar": "https://i.pravatar.cc/300"
+  }
+]
